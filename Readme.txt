@@ -15,11 +15,8 @@ Este é o portfólio online de Vitória França, uma desenvolvedora web em forma
 ## Estrutura do Projeto
 
 O projeto é organizado da seguinte forma:
-
 /assets /css - main.css # Estilos principais /img - my-profile-img.jpeg # Imagem do perfil /vendor - bootstrap - bootstrap-icons - aos - glightbox - swiper index.html # Página inicial do portfólio
 
-markdown
-Copiar código
 
 ## Como Rodar o Projeto
 
@@ -27,19 +24,4 @@ Copiar código
 
    ```bash
    git clone <URL_DO_REPOSITORIO>
-Abra o arquivo index.html no navegador.
-Funcionalidades
-Página inicial (Hero Section): Exibe uma breve descrição de Vitória França com um efeito de digitação para listar as habilidades.
-Sobre: Uma seção sobre a trajetória de Vitória, com detalhes de sua experiência e habilidades.
-Currículo: Uma área para detalhar a formação e experiências profissionais.
-Serviços: Informações sobre as áreas de atuação e disponibilidade.
-Contato: Informações de contato e links para redes sociais.
-Contato
-Email: vitoriaaguiar02@gmail.com
-Telefone: +55 31 99451-7222
-LinkedIn: vitoria-aguiar
-
-
-
-
 
