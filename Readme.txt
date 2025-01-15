@@ -1,22 +1,32 @@
-# Portfólio Vitória França
+# Barber França - Landing Page
 
-Este é o portfólio online de Vitória França, uma desenvolvedora web em formação. O site apresenta informações pessoais, habilidades, projetos e formas de contato, utilizando as melhores práticas de desenvolvimento web.
+Este é um projeto simples de uma landing page para uma barbearia, desenvolvido como parte do meu aprendizado em React. O objetivo principal deste projeto foi praticar o uso dos hooks `useState` e `useEffect`, além de aplicar conceitos de design e usabilidade.
+
+---
+
+## Funcionalidades
+
+- **Tema Escuro e Claro**:  
+  O projeto implementa uma funcionalidade que permite ao usuário alternar entre temas claro e escuro, utilizando o hook `useState` para gerenciar o estado do tema.
+  
+- **Design Responsivo**:  
+  A landing page é projetada para ser responsiva, garantindo uma boa experiência em diferentes dispositivos.
+  
+- **Conteúdo Informativo**:  
+  A página apresenta informações sobre a barbearia, destacando a qualidade dos serviços e a experiência da equipe.
 
 ---
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estruturação das páginas.
-- **CSS**: Estilização para uma aparência moderna e responsiva.
-- **JavaScript**: Funcionalidades interativas, como animações de texto.
-- **Bootstrap**: Framework CSS para design responsivo.
-- **Google Fonts**: Fontes personalizadas.
-- **AOS (Animate On Scroll)**: Efeitos de animação ao rolar a página.
-- **Swiper.js**: Slides interativos.
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **CSS Modules**: Para estilização da página de forma modular e escalável.
+- **React Icons**: Para ícones utilizados na interface.
 
 ---
 
-## Estrutura do Projeto
+## Como Executar o Projeto
 
-A organização dos arquivos é a seguinte:
-
+1. **Clone o repositório**:  
+   ```bash
+   git clone https://github.com/seu_usuario/nome_do_repositorio.git
