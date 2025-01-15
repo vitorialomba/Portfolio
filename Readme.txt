@@ -1,32 +1,50 @@
-# Barber França - Landing Page
+# Portfólio Vitória França
 
-Este é um projeto simples de uma landing page para uma barbearia, desenvolvido como parte do meu aprendizado em React. O objetivo principal deste projeto foi praticar o uso dos hooks `useState` e `useEffect`, além de aplicar conceitos de design e usabilidade.
-
----
-
-## Funcionalidades
-
-- **Tema Escuro e Claro**:  
-  O projeto implementa uma funcionalidade que permite ao usuário alternar entre temas claro e escuro, utilizando o hook `useState` para gerenciar o estado do tema.
-  
-- **Design Responsivo**:  
-  A landing page é projetada para ser responsiva, garantindo uma boa experiência em diferentes dispositivos.
-  
-- **Conteúdo Informativo**:  
-  A página apresenta informações sobre a barbearia, destacando a qualidade dos serviços e a experiência da equipe.
+Este é o portfólio online de Vitória França, uma desenvolvedora web em formação. O site apresenta informações pessoais, habilidades, projetos e formas de contato, utilizando as melhores práticas de desenvolvimento web.
 
 ---
 
 ## Tecnologias Utilizadas
 
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **CSS Modules**: Para estilização da página de forma modular e escalável.
-- **React Icons**: Para ícones utilizados na interface.
+- **HTML**: Estruturação das páginas.
+- **CSS**: Estilização para uma aparência moderna e responsiva.
+- **JavaScript**: Funcionalidades interativas, como animações de texto.
+- **Bootstrap**: Framework CSS para design responsivo.
+- **Google Fonts**: Fontes personalizadas.
+- **AOS (Animate On Scroll)**: Efeitos de animação ao rolar a página.
+- **Swiper.js**: Slides interativos.
 
 ---
 
-## Como Executar o Projeto
+## Estrutura do Projeto
 
-1. **Clone o repositório**:  
+A organização dos arquivos é a seguinte:
+
+/assets /css - main.css # Estilos principais /img - my-profile-img.jpeg # Imagem do perfil /vendor - bootstrap # Framework Bootstrap - bootstrap-icons # Ícones do Bootstrap - aos # Biblioteca de animações - glightbox # Plugin de lightbox - swiper # Biblioteca para sliders index.html # Página principal do portfólio
+
+yaml
+Copiar código
+
+---
+
+## Funcionalidades do Site
+
+- **Página Inicial (Hero Section)**: Introdução com texto animado descrevendo as principais habilidades.
+- **Sobre Mim**: Apresentação pessoal e resumo da trajetória de Vitória França.
+- **Currículo**: Informações sobre formação acadêmica e experiência profissional.
+- **Serviços**: Áreas de atuação e serviços oferecidos.
+- **Projetos**: Exibição de projetos desenvolvidos com links para repositórios ou demonstrações.
+- **Contato**: Formulário e links para redes sociais.
+
+---
+
+## Como Rodar o Projeto
+
+1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone <URL_DO_REPOSITORIO>
+Abra o arquivo index.html em qualquer navegador moderno.
+Contato
+Email: vitoriaaguiar02@gmail.com
+Telefone: +55 31 99451-7222
+LinkedIn: linkedin.com/in/vitoria-aguiar
